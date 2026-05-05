@@ -1,39 +1,42 @@
-# 👨‍💻 Eng. Hafed | Software Engineer
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Hafed Alrazy</h1>
+<h3 align="center">Software Developer | Code Architecture Enthusiast</h3>
 
-### 🚀 About Me
-I am a dedicated **Computer Science Student** and **Software Engineer** focused on building high-performance systems and logical architectures. I specialize in **C++ Development** and system-level programming with a strong emphasis on **Object-Oriented Programming (OOP)** and efficient memory management.
+<p align="center">
+  <!-- TODO: https://www.linkedin.com/in/hafed-al-razy-9352a33a7?utm_source=share_via&utm_content=profile&utm_medium=member_android -->
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
----
-
-### 🛠 Tech Stack & Specializations
-* **Languages:** `C++ (C++11/17)`, `Algorithms`, `Data Structures`.
-* **Systems:** Network Protocols (DNS, FTP, DHCP, IP), System Architecture.
-* **Tools:** Visual Studio, Git/GitHub, Linux/Mobile Environments (Cxxdroid).
-* **Interests:** Merging programming with logical thinking and mental development through the **BrainCode** initiative.
-
----
-
-### 📂 Featured Projects
-* **[Faculty Bot]:** A C++ integrated Telegram bot for academic resource management.
-* **[Advanced OOP Systems]:** A collection of projects demonstrating deep understanding of inheritance, composition, and static members.
-* **[Structured Skill Showcase]:** Organizational framework for technical skill demonstrations.
+  <!-- TODO: Replace with your GitHub username -->
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Nadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
+## 🧠 About Me
+
+💻 I'm a passionate software developer focused on **understanding code at a deep level**, not just writing it.  
+🔍 I analyze how systems work internally (Architecture & Internal Logic).  
+🚀 I aim to write clean, scalable, and maintainable code.
 
 ---
 
-### 🎯 Current Focus
-- 🎓 Mastering Advanced Data Structures and Algorithms.
-- 🏗 Developing robust backend solutions for educational tools.
-- 🧠 Evolving the **BrainCode** logic-programming philosophy.
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
+</p>
+
+<!-- You can add more later:
+java,python,js,react,linux ... -->
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
+## 🔥 Current Focus
 
+- 🧠 Deep understanding of code architecture & internal logic  
+- 🔍 Analyzing projects instead of just using them  
+- ✨ Writing clean
