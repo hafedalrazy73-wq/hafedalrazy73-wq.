@@ -8,8 +8,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <!-- TODO: Replace with your GitHub username -->
-  <a href="https://github.com/YOUR_USERNAME">
+  <!-- TODO: hafedalrazy73-wq -->
+  <a href="https://github.com/hafedalrazy73-wq">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -31,7 +31,7 @@
 </p>
 
 <!-- You can add more later:
-java,python,js,react,linux ... -->
+java,js,react ... -->
 
 ---
 
