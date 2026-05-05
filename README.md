@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Hafez Mahfouz</h1>
+<h1 align="center">Hi 👋, I'm Hafed Alrazy</h1>
 <h3 align="center">Software Developer | Code Architecture Enthusiast</h3>
 
 <p align="center">
